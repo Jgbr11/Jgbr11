@@ -1,7 +1,7 @@
 ## Opa! eu sou o Jgbr11, Um progamador aprendiz
 
-- 🔭 Trabalho Com Python
-- 🌱 Estou aprendendo Python
+- 🔭 Trabalho Com Python, HTML e CSS
+- 🌱 Estou aprendendo Python, HTML e CSS
 - 📫 Contato no email: jgcreplive@gmail.com
 
 <div align="center">
