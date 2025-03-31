@@ -1,4 +1,4 @@
-## Opa! eu sou o Jgbr11, Um progamador aprendiz
+## Opa! eu sou o João guilherme de souza cordeiro, Um progamador aprendiz
 
 - 🔭 Trabalho Com Python, HTML e CSS
 - 🌱 Estou aprendendo Python, HTML e CSS
