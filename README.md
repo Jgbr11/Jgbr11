@@ -1,7 +1,7 @@
 ## Opa! eu sou o João guilherme de souza cordeiro, Um progamador aprendiz
 
-- 🔭 Trabalho Com Python, HTML e CSS
-- 🌱 Estou aprendendo Python, HTML e CSS
+- 🔭 Trabalho Com Python, HTML, CSS, JS, PHP, Mysql
+- 🌱 Estou aprendendo Java
 - 📫 Contato no email: jgcreplive@gmail.com
 
 <div align="center">
