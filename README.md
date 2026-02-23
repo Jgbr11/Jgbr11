@@ -4,11 +4,11 @@
 ---
 
 ### 🚀 Sobre Mim
-Cursando **Engenharia de Software na PUCPR** (2024 - 2028). Sou um entusiasta por tecnologia, apaixonado por resolver problemas complexos e criar sistemas robustos. Quando não estou codando, provavelmente estou na academia ou explorando o mundo de *Elden Ring* e *Night City*.
+Cursando **Engenharia de Software na PUCPR** (2024 - 2028). Sou um entusiasta por tecnologia, apaixonado por resolver problemas complexos e criar sistemas robustos. Quando não estou codando, provavelmente estou na academia.
 
 - 🛠️ **Foco atual:** Desenvolvimento Backend com Java e Spring Boot.
-- 🏗️ **Projetos Recentes:** Sistema de Gerenciamento de Quests e um RPG por turnos em Java.
-- ⚡ **Interesses:** Arquitetura de Software (3-tier), Banco de Dados e Estética Cyberpunk.
+- 🏗️ **Projetos Recentes:** Sistema de Gerenciamento de Financias fullstack usando Java e Spring.
+- ⚡ **Interesses:** Arquitetura de Software, Banco de Dados.
 
 ---
 
@@ -25,7 +25,7 @@ Cursando **Engenharia de Software na PUCPR** (2024 - 2028). Sou um entusiasta po
 
 ### 🕹️ Além do Código
 * **Gym Rat:** O foco no treino ajuda no foco no código.
-* **Gamer:** Fã de RPGs densos e jogos de sobrevivência (Terraria, Skyrim).
+* **Gamer:** Fã de RPGs e jogos de sobrevivência.
 * **Gearhead:** Curto carros clássicos brasileiros e muscle cars modernos.
 
 ---
@@ -33,18 +33,13 @@ Cursando **Engenharia de Software na PUCPR** (2024 - 2028). Sou um entusiasta po
 ### 📧 Vamos Conversar?
 
 <div> 
-  <a href="https://www.instagram.com/jgs_cordeiro/" target="_blank">
+  <a href="https://www.instagram.com/joao_gscordeiro/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
   <a href="mailto:jgcreplive@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/" target="_blank">
+  <a href="https://www.linkedin.com/joão-guilherme-souza-cordeiro" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </div>
-
----
-<p align="center">
-  <i>"Wake up, Samurai. We have code to burn."</i> 🦾
-</p>
